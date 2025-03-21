@@ -24,43 +24,45 @@ I am a frontend developer who started programming a year ago. I specialize in cr
 
 ## Frontend:
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" alt="HTML5" width="50" style="margin-right: 30px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" alt="CSS3" width="50" style="margin-right: 30px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nextdotjs.svg" alt="Next.js" width="50" style="margin-right: 30px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" alt="React" width="50" style="margin-right: 30px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/redux.svg" alt="Redux" width="50" style="margin-right: 30px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sass.svg" alt="Sass" width="50" style="margin-right: 30px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tailwindcss.svg" alt="TailwindCSS" width="50" style="margin-right: 30px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/webflow.svg" alt="Webflow" width="50" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/next.js.png" alt="Next.js" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/webflow.png" alt="Webflow" style="margin-right: 30px"/>
 </p>
 
 ## Backend:
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/node-dot-js.svg" alt="Node.js" width="50" style="margin-right: 30px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg" alt="Express" width="50" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" style="margin-right: 30px"/>
 </p>
 
 ## Testing:
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jest.svg" alt="Jest" width="50" style="margin-right: 30px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/playwright.svg" alt="Playwright" width="50" style="margin-right: 30px"/>
+ 
+   <img src="https://img.icons8.com/?size=50&id=3u82blvEilbF&format=png&color=000000" alt="Jest" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/playwright.png" alt="Playwright" style="margin-right: 30px"/>
 </p>
 
 ## Базы данных:
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" alt="MongoDB" width="50" style="margin-right: 30px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postgresql.svg" alt="PostgreSQL" width="50" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin-right: 30px"/>
+
+  <img src="https://img.icons8.com/?size=50&id=38561&format=png&color=000000" alt="PostgreSQL" style="margin-right: 30px"/>
 </p>
 
 ## DevOps & Инструменты:
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" alt="Docker" width="50" style="margin-right: 30px"/>
+ <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="margin-right: 30px"/>
 </p>
 
 ## Контроль версий:
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" alt="Git" width="50" style="margin-right: 30px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" width="50" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin-right: 30px"/>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiiZhov&theme=radical&show_icons=true)](https://github.com/SerhiiZhov/github-readme-stats)
