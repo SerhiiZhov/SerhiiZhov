@@ -1,15 +1,15 @@
 <h1>👋 Hello! I'm Serhii Zhovtobriukh <h1/>
-#Front-end Developer | React, Next.js, Node.js, Nest.js | Open to new opportunities
+Front-end Developer | React, Next.js, Node.js, Nest.js | Open to new opportunities
 
 🚀 About Me
 
 I am a frontend developer who started programming a year ago. I specialize in creating SPA applications and I also use Next.js with all its features, such as SSG, SSR. I have a good understanding of modern technologies and I am ready to learn any new tool if needed (which is supported by my portfolio). I am good at understanding other people's code and can quickly adapt to different situations. At the moment, I am learning GraphQL and technologies like WebSocket and its lightweight alternatives.
 
 
-#🌍 Based in: Kharkiv, Ukraine 
-#💻 Coding Since: 2024 
-#🎓 Education: Frontend Developer at Lemon School 2024 
-#📚 Currently Learning: Graph QL, WebSocket, and similar technologies
+🌍 Based in: Kharkiv, Ukraine 
+💻 Coding Since: 2024 
+🎓 Education: Frontend Developer at Lemon School 2024 
+📚 Currently Learning: Graph QL, WebSocket, and similar technologies
 
 🛠️ Tech Skills Languages:
 # Frontend:
