@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hello! I'm Serhii Zhovtobriukh Front-end Developer | React, Next.js, Node.js, Nest.js | Open to new opportunities
 
-<!--
-**SerhiiZhov/SerhiiZhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Frontend Developer with a strong emphasis on building dynamic, user-friendly web applications, including landing pages, e-commerce sites, and interactive interfaces. I focus on writing clean, efficient code using modern technologies, and I’m always working to improve my skills. I’m passionate about creating impactful, innovative solutions that deliver exceptional user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Based in: Kharkiv, Ukraine 💻 Coding Since: 2024 🎓 Education: Frontend Developer at Lemon School 2024 📚 Currently Learning: Graph QL, WebSocket, and similar technologies
+
+🛠️ Tech Skills Languages:
+
+javascript logo typescript logo Frontend:
+
+html5 logo css3 logo nextjs logo react logo redux logo sass logo tailwindcss logo webflow logo Backend:
+
+nodejs logo express logo Testing:
+
+jest logo playwright logo Databases:
+
+mongodb logo postgresql logo DevOps & Tools:
+
+docker logo Version Control:
+
+git logo github logo
