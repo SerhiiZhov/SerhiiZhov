@@ -9,41 +9,42 @@ I'm a Frontend Developer with a strong emphasis on building dynamic, user-friend
 🛠️ Tech Skills Languages:
 # Frontend:
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo.svg/600px-HTML5_logo.svg.png" alt="HTML5" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Nextjs-logo.svg" alt="Next.js" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Redux_Logo.png" alt="Redux" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Webflow_Logo.svg" alt="Webflow" width="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" alt="HTML5" width="50" style="margin-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" alt="CSS3" width="50" style="margin-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nextdotjs.svg" alt="Next.js" width="50" style="margin-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" alt="React" width="50" style="margin-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/redux.svg" alt="Redux" width="50" style="margin-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sass.svg" alt="Sass" width="50" style="margin-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tailwindcss.svg" alt="TailwindCSS" width="50" style="margin-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/webflow.svg" alt="Webflow" width="50" style="margin-right: 10px"/>
 </p>
 
 # Backend:
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" alt="Node.js" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/node-dot-js.svg" alt="Node.js" width="50" style="margin-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg" alt="Express" width="50" style="margin-right: 10px"/>
 </p>
 
 # Testing:
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Jest.svg" alt="Jest" width="50"/>
-  <img src="https://playwright.dev/img/logo-large.png" alt="Playwright" width="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jest.svg" alt="Jest" width="50" style="margin-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/playwright.svg" alt="Playwright" width="50" style="margin-right: 10px"/>
 </p>
 
 # Databases:
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/MongoDB_Logo_2021.svg" alt="MongoDB" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" alt="MongoDB" width="50" style="margin-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postgresql.svg" alt="PostgreSQL" width="50" style="margin-right: 10px"/>
 </p>
 
 # DevOps & Tools:
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_Logo.png" alt="Docker" width="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" alt="Docker" width="50" style="margin-right: 10px"/>
 </p>
 
 # Version Control:
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Git_logo.svg" alt="Git" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" alt="Git" width="50" style="margin-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" width="50" style="margin-right: 10px"/>
 </p>
+
