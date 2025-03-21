@@ -20,8 +20,6 @@ I am a frontend developer who started programming a year ago. I specialize in cr
   📚 Currently Learning: GraphQL, WebSocket, and similar technologies
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiZhov&layout=compact)](https://github.com/SerhiiZhov/github-readme-stats)
-
 # Tech Skills
 
 ## Frontend:
