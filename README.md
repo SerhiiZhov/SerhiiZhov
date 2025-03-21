@@ -1,12 +1,15 @@
-<h1>👋 Hello! I'm Serhii Zhovtobriukh</h1> 
-Front-end Developer | React, Next.js, Node.js| Open to new opportunities
+<h1 align="center">Hi there, I'm Serhii 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Front-end Developer | React, Next.js, Node.js| Open to new opportunities</h3>
+
 <br>
 <br>
 
 🚀 About Me
 <br>
-<br>
-I am a frontend developer who started programming a year ago. I specialize in creating SPA applications and I also use Next.js with all its features, such as SSG, SSR. I have a good understanding of modern technologies and I am ready to learn any new tool if needed (which is supported by my portfolio). I am good at understanding other people's code and can quickly adapt to different situations. At the moment, I am learning GraphQL and technologies like WebSocket and its lightweight alternatives.
+<be>
+<p>
+I am a frontend developer who started programming a year ago. I specialize in creating SPA applications and I also use Next.js with all its features, such as SSG, SSR. I have a good understanding of modern technologies and I am ready to learn any new tool if needed (which is supported by my portfolio). I am good at understanding other people's code and can quickly adapt to different situations. At the moment, I am learning GraphQL and technologies like WebSocket and its lightweight alternatives.</p>
 <br>
 <br>
 
@@ -62,4 +65,4 @@ I am a frontend developer who started programming a year ago. I specialize in cr
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" width="50" style="margin-right: 30px"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiiZhov&theme=tokyonight&show_icons=true)](https://github.com/SerhiiZhov/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiiZhov&theme=radical&show_icons=true)](https://github.com/SerhiiZhov/github-readme-stats)
