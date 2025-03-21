@@ -8,30 +8,31 @@ I'm a Frontend Developer with a strong emphasis on building dynamic, user-friend
 
 🛠️ Tech Skills Languages:
 # Frontend:
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo.svg/600px-HTML5_logo.svg.png)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
-![Next.js](https://upload.wikimedia.org/wikipedia/commons/a/a3/Nextjs-logo.svg)
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![Redux](https://upload.wikimedia.org/wikipedia/commons/8/8f/Redux_Logo.png)
-![Sass](https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg)
-![TailwindCSS](https://upload.wikimedia.org/wikipedia/commons/a/a4/Tailwind_CSS_Logo.svg)
-![Webflow](https://upload.wikimedia.org/wikipedia/commons/4/45/Webflow_Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo.svg/600px-HTML5_logo.svg.png" alt="HTML5" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Nextjs-logo.svg" alt="Next.js" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Redux_Logo.png" alt="Redux" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Webflow_Logo.svg" alt="Webflow" width="50"/>
 
 # Backend:
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg)
-![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" alt="Node.js" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="50"/>
 
 # Testing:
-![Jest](https://upload.wikimedia.org/wikipedia/commons/a/a7/Jest.svg)
-![Playwright](https://playwright.dev/img/logo-large.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Jest.svg" alt="Jest" width="50"/>
+<img src="https://playwright.dev/img/logo-large.png" alt="Playwright" width="50"/>
 
 # Databases:
-![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/4e/MongoDB_Logo_2021.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/MongoDB_Logo_2021.svg" alt="MongoDB" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50"/>
 
 # DevOps & Tools:
-![Docker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_Logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_Logo.png" alt="Docker" width="50"/>
 
 # Version Control:
-![Git](https://upload.wikimedia.org/wikipedia/commons/9/91/Git_logo.svg)
-![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Git_logo.svg" alt="Git" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50"/>
 
