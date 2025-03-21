@@ -24,9 +24,11 @@ I am a frontend developer who started programming a year ago. I specialize in cr
 
 ## Frontend:
 <p>
+  	
+   <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="JS" style="margin-right: 30px; width:50px"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin-right: 30px"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin-right: 30px"/>
-  <img src="https://img.icons8.com/color/48/000000/next.js.png" alt="Next.js" style="margin-right: 30px"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Next.js.svg" alt="Next.js" style="margin-right: 30px; width:50px"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin-right: 30px"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" style="margin-right: 30px"/>
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" style="margin-right: 30px"/>
@@ -44,22 +46,24 @@ I am a frontend developer who started programming a year ago. I specialize in cr
 <p>
  
    <img src="https://img.icons8.com/?size=50&id=3u82blvEilbF&format=png&color=000000" alt="Jest" style="margin-right: 30px"/>
-  <img src="https://img.icons8.com/color/48/000000/playwright.png" alt="Playwright" style="margin-right: 30px"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" style="margin-right: 30px; width: 50px"/>
 </p>
 
-## Базы данных:
+## Database:
 <p>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin-right: 30px"/>
 
   <img src="https://img.icons8.com/?size=50&id=38561&format=png&color=000000" alt="PostgreSQL" style="margin-right: 30px"/>
 </p>
 
-## DevOps & Инструменты:
+## DevOps & Tools:
 <p>
+  
+  <img src="https://icon.icepanel.io/Technology/svg/NPM.svg" alt="npm" style="margin-right: 30px; width: 50px"  />
  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="margin-right: 30px"/>
 </p>
 
-## Контроль версий:
+## Version control:
 <p>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin-right: 30px"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin-right: 30px"/>
