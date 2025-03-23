@@ -33,8 +33,7 @@ I am a frontend developer who started programming a year ago. I specialize in cr
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" style="margin-right: 30px"/>
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" style="margin-right: 30px"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" style="margin-right: 30px"/>
-  <img src="https://img.icons8.com/color/48/000000/webflow.png" alt="Webflow" style="margin-right: 30px"/>
-   <img src="https://w7.pngwing.com/pngs/141/214/png-transparent-web-development-shopify-web-design-magento-software-development-web-design-web-design-business-internet-thumbnail.png" alt="shopify" style="margin-right: 30px; width:50px"/>
+  
 
 </p>
 
@@ -49,6 +48,13 @@ I am a frontend developer who started programming a year ago. I specialize in cr
  
    <img src="https://img.icons8.com/?size=50&id=3u82blvEilbF&format=png&color=000000" alt="Jest" style="margin-right: 30px"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" style="margin-right: 30px; width: 50px"/>
+</p>
+
+## CMS:
+<p>
+   <img src="https://img.icons8.com/?size=50&id=v9uZbuVoWleB&format=png&color=000000" alt="wordpress" style="margin-right: 30px"/>
+  <img src="https://img.icons8.com/color/48/000000/webflow.png" alt="Webflow" style="margin-right: 30px"/>
+  <img src="https://w7.pngwing.com/pngs/141/214/png-transparent-web-development-shopify-web-design-magento-software-development-web-design-web-design-business-internet-thumbnail.png" alt="shopify" style="margin-right: 30px; width:50px"/>
 </p>
 
 ## Database:
